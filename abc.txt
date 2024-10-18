@@ -1,1 +1,3 @@
 Adding 1st line to my file
+Adding 2nd line to my file
+Adding 3rd line to my file
